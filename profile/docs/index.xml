@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>タクミン</title>
+    <link>https://Takumi00Nine.github.io/home/</link>
+    <description>Recent content on タクミン</description>
+    <image>
+      <url>https://Takumi00Nine.github.io/home/profile.jpg</url>
+      <link>https://Takumi00Nine.github.io/home/profile.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 09 Jan 2023 17:42:02 +0900</lastBuildDate><atom:link href="https://Takumi00Nine.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初期パーティ</title>
+      <link>https://Takumi00Nine.github.io/home/pokemon/20230109/post1/</link>
+      <pubDate>Mon, 09 Jan 2023 17:42:02 +0900</pubDate>
+      
+      <guid>https://Takumi00Nine.github.io/home/pokemon/20230109/post1/</guid>
+      <description>こちらのパーティを使用しています。</description>
+    </item>
+    
+    <item>
+      <title>初めての投稿</title>
+      <link>https://Takumi00Nine.github.io/home/blogs/post1/</link>
+      <pubDate>Mon, 09 Jan 2023 17:03:15 +0900</pubDate>
+      
+      <guid>https://Takumi00Nine.github.io/home/blogs/post1/</guid>
+      <description>これからここに記事を投稿していきます。</description>
+    </item>
+    
+  </channel>
+</rss>

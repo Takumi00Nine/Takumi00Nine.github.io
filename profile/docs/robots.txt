@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Takumi00Nine.github.io/home/sitemap.xml
